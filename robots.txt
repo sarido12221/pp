@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /*
+Allow: /$
+
+Sitemap: http://mandiriqq-ub.edu.zipcpu.com/sitemap.xml
